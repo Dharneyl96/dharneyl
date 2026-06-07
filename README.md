@@ -18,7 +18,7 @@ My focus is diagnostic analytics: understanding *why* things happen, not just *w
 - 🎓 **Certification:** Business and Data Analytics — ValueMax Coders' Hub, Ibadan
 - 🔍 **Specialisation:** Exploratory Data Analysis, Data Cleaning, Visual Storytelling
 - 🛠️ **Currently building:** HR analytics projects and expanding into machine learning
-- 📫 **Reach me:** youremail@gmail.com
+- 📫 **Reach me:** adenirandaniel4@gmail@gmail.com
 
 ---
 
